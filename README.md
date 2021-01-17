@@ -1,1 +1,1 @@
-# django_beginner
+# django_beginner application
